@@ -1,7 +1,7 @@
 <?php
 
 //-----ACTION THRESHOLDS---------------
-$REPORT_THRESHOLD 	= 65;
+$REPORT_THRESHOLD 	= 70;
 $MARK_THRESHOLD		= 90;
 
 //-----Globals-------------------------
